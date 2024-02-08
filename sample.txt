@@ -1,1 +1,2 @@
 adding this file to user feature branch 
+i want driectly commit without adding to the staging area
